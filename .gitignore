@@ -1,0 +1,7 @@
+
+.vs/
+*.slnLaunch*
+
+*/.vs/
+*/bin/
+*/obj/
